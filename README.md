@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=katashifukushima&show_icons=true&theme=radical&title_color=ffea05&text_color=700da5&hide_border=true&locale=es" alt="katashifukushima" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katashifukushima&theme=highcontrast" alt="katashifukushima" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=katashifukushima&theme=dark" alt="katashifukushima" /></p>
