@@ -19,8 +19,6 @@ Hola 👋🏻 Soy Katashi Fukushima 🥷<br>Estoy aprendiendo programación con 
 ![](https://github-contributor-stats.vercel.app/api?username=katashifukushima&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=katashifukushima&icon=7&color=3)](https://visitcount.itsvg.in)
-
   ## 💰 Puedes ayudarme donando
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/KatashiF) 
 
