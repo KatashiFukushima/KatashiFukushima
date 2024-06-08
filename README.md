@@ -1,5 +1,5 @@
 # ¿En qué puesto me encuentro de todos los usuarios en Perú?
-[![committers.top badge](https://user-badge.committers.top/venezuela/USERNAME.svg)](https://user-badge.committers.top/peru/KatashIFukushima)
+[![committers.top badge](https://user-badge.committers.top/peru/KatashiFukushima.svg)](https://user-badge.committers.top/peru/KatashiFukushima)
 
 # 💫 Sobre Mí:
 Hola 👋🏻 Soy Katashi Fukushima 🥷<br>Estoy aprendiendo programación con ayuda de amigos desarrolladores de bots. 🤝<br>Eres bienvenido(a) a mi repositorio❤️
