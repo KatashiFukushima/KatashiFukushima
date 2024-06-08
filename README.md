@@ -1,4 +1,4 @@
-# ¿En qué puesto me encuentro de todos los usuarios en Perú?
+# ¿En qué puesto me encuentro de todos los usuarios de GitHub en Perú?
 [![committers.top badge](https://user-badge.committers.top/peru/KatashiFukushima.svg)](https://user-badge.committers.top/peru/KatashiFukushima)
 
 # 💫 Sobre Mí:
