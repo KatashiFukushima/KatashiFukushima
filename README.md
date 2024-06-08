@@ -1,3 +1,6 @@
+# ¿En qué puesto me encuentro de todos los usuarios en Perú?
+Pues... [![committers.top badge](https://user-badge.committers.top/venezuela/USERNAME.svg)](https://user-badge.committers.top/venezuela/KatashIFukushima)
+
 # 💫 Sobre Mí:
 Hola 👋🏻 Soy Katashi Fukushima 🥷<br>Estoy aprendiendo programación con ayuda de amigos desarrolladores de bots. 🤝<br>Eres bienvenido(a) a mi repositorio❤️
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katashifukushima&label=Vistas%20al%20perfil&color=03fc2c&style=flat" alt="katashifukushima" /> </p>
